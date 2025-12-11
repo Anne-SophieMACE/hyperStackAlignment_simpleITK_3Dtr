@@ -4,7 +4,7 @@ This code was used in the chapter **“Imaging monocyte dynamics within living t
 
 **Algorithm information:** 3D translation estimation using SimpleITK with the Mean Squares metric and the Regular Step Gradient Descent optimizer.
 
-An example of the results is shown in the file *illustration_hyperStackAlignment_simpleITK_3Dtr.png*: collagen staining is displayed at 4 time points (1, 100, 200, and 300; timestamp: 2 min 30 s) and color-coded accordingly, with the raw data on top and the aligned data on the bottom.
+**Example of results** shown in file *illustration_hyperStackAlignment_simpleITK_3Dtr.png*: collagen staining is displayed at 4 time points (1, 100, 200, and 300; timestamp: 2 min 30 s) and color-coded accordingly, with the raw data on top and the aligned data on the bottom.
 
 ## License
 This project is subject to a specific license from the **Institut Curie**.  
