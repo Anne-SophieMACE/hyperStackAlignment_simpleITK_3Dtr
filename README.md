@@ -16,13 +16,13 @@ Consultez le fichier `Logiciel hyperStackAlignment_simpleITK_3Dtr.licence` pour 
 ## Installation
 
 1. **Create a dedicated environment** (tested with Python 3.12.0):
-```python -m venv env3D_transfo
+```python -m venv env3D_transfo```
 2. **Activate the environment** (tested on Windows, with Anaconda Power Prompt):
-```env3D_transfo\Scripts\activate.bat
+```env3D_transfo\Scripts\activate.bat```
 3. **Install the requirements** (replace absolutePathToFolderWithRequirements with the actual path):
-```pip install -r absolutePathToFolderWithRequirements/requirements_hyperStackAlignment_simpleITK_3Dtr.txt
+```pip install -r absolutePathToFolderWithRequirements/requirements_hyperStackAlignment_simpleITK_3Dtr.txt```
 4. Run the code (replace absolutePathToFolderWithPythonCode with the actual path):
-```python absolutePathToFolderWithPythonCode/hyperStackAlignment_simpleITK_3Dtr_v1.py
+```python absolutePathToFolderWithPythonCode/hyperStackAlignment_simpleITK_3Dtr_v1.py```
 
 Note: An executable file has also been created for flexible use using PyInstaller (https://pyinstaller.org/en/stable/)
 .
