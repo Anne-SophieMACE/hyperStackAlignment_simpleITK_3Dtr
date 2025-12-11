@@ -21,7 +21,7 @@ Consultez le fichier `Logiciel hyperStackAlignment_simpleITK_3Dtr.licence` pour 
 ```env3D_transfo\Scripts\activate.bat```
 3. **Install the requirements** (replace absolutePathToFolderWithRequirements with the actual path):
 ```pip install -r absolutePathToFolderWithRequirements/requirements_hyperStackAlignment_simpleITK_3Dtr.txt```
-4. **Run the code** (replace absolutePathToFolderWithPythonCode with the actual path):
+4. **Run the code** in the dedicated environment (replace absolutePathToFolderWithPythonCode with the actual path):
 ```python absolutePathToFolderWithPythonCode/hyperStackAlignment_simpleITK_3Dtr_v1.py```
 
 Note: An executable file has also been created for flexible use using PyInstaller (https://pyinstaller.org/en/stable/)
